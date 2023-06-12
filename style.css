@@ -1,0 +1,8 @@
+html, body {
+}
+
+.scene {
+    width: 400px;
+    height: 400px;
+    outline: solid 1px green;
+}
